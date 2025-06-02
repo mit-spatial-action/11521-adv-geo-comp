@@ -1,0 +1,15 @@
+project:
+  type: book
+
+book:
+  title: "Advanced Geographic Computation for Urban Planners"
+  author: "Eric Robsky Huntley, PhD, GISP"
+  date: "6/2/2025"
+  chapters:
+    - index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
