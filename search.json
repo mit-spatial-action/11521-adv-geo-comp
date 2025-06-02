@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Advanced Geographic Computation for Urban Planners",
+    "section": "",
+    "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "Advanced Geographic Computation for Urban Planners",
+    "section": "0.2 Running Code",
+    "text": "0.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Quarto</span>"
+    ]
+  }
+]
