@@ -13,3 +13,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+
+execute:
+  freeze: auto
