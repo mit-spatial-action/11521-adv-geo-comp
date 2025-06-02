@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: 11521-adv-geo-comp
+message: >-
+  Please cite the book with metadata from this file.
+type: software
+authors:
+  - given-names: Eric Robsky
+    family-names: Huntley
+    email: ehuntley@mit.edu
+    affiliation: MIT Department of Urban Studies and Planning
+    orcid: 'https://orcid.org/0000-0001-8497-0589'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15576920
+    description: Zenodo Upload
+repository-code: 'https://github.com/mit-spatial-action/11521-adv-geo-comp/'
+abstract: >-
+  Materials for a redesigned 11.521: Advanced Geographic 
+  Computation for Urban Planning. Built using Quarto.
+keywords:
+  - city planning
+  - urban planning
+  - automation
+  - r
+  - mapping
+  - spatial data science
+  - cartography
+  - gis
+license: MIT
